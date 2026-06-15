@@ -1,7 +1,5 @@
 ## About Me
 
-I am a smart (but selectively lazy 😉) developer who loves finding the most efficient way to solve complex problems. Currently, I'm focusing on building intelligent systems and automating enterprise workflows.
-
 * 💼 **Current Role:** Associate Developer at **Conga**
 * 🚀 **What I'm Working On:** Building and optimizing **CRM Automations in Salesforce**
 * 🧠 **Currently Learning:** Agentic AI, LangGraph, LangChain, and the evolving LLM ecosystem
